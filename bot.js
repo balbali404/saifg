@@ -244,4 +244,4 @@ message.channel.sendEmbed(Embed).then(msg => {
 
 
 
-client.login(process.en.BOT_TOKEN); 
+client.login(process.env.BOT_TOKEN); 
